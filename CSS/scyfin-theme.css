@@ -843,7 +843,7 @@ html,
 }
 /* Modify play button */
 .layout-desktop .mainDetailButtons .btnPlay::after {
-    content: "Play" !important;
+    content: "播放" !important;
 }
 .layout-desktop .mainDetailButtons .btnPlay {
     position: relative !important;
